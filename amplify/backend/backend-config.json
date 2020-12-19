@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"callcenterph1e2428c9": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

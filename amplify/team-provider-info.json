@@ -1,0 +1,20 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-call-center-ph-prod-140326-authRole",
+            "UnauthRoleArn": "arn:aws:iam::870199152720:role/amplify-call-center-ph-prod-140326-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::870199152720:role/amplify-call-center-ph-prod-140326-authRole",
+            "Region": "ap-southeast-1",
+            "DeploymentBucketName": "amplify-call-center-ph-prod-140326-deployment",
+            "UnauthRoleName": "amplify-call-center-ph-prod-140326-unauthRole",
+            "StackName": "amplify-call-center-ph-prod-140326",
+            "StackId": "arn:aws:cloudformation:ap-southeast-1:870199152720:stack/amplify-call-center-ph-prod-140326/f752b7b0-126d-11ea-aec3-06abab1199f8",
+            "AmplifyAppId": "dhmh8giz8930m"
+        },
+        "categories": {
+            "auth": {
+                "callcenterph1e2428c9": {}
+            }
+        }
+    }
+}
