@@ -53,7 +53,7 @@
 				</el-col>
 			</el-row>
 		</div>
-		<el-dialog title="Төлөвлөгөөт ажил нэмэх" :visible.sync="dialogVisible" width="30%" :before-close="handleClose">
+		<el-dialog title="Төлөвлөгөөт ажил нэмэх" :visible.sync="dialogVisible" width="30%">
 			<span>Төлөвлөгөөт ажил нэмэх</span>
 			<span slot="footer" class="dialog-footer">
 				<el-button @click="dialogVisible = false">Cancel</el-button>

@@ -43,6 +43,7 @@
         </el-header>
         <el-main class="mainLayout white-wrapper">
           <router-view />
+		<!-- <calendar-view></calendar-view> -->
         </el-main>
       </el-container>
     </el-container>
@@ -50,6 +51,7 @@
 </template>
 <script>
 import { SidebarMenu } from 'vue-sidebar-menu'
+// import CalendarView from '../../partnerComponents/calendarView.vue'
 export default {
 	components: {
 		SidebarMenu

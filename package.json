@@ -9,8 +9,7 @@
     "lintfix": "vue-cli-service lint"
   },
   "dependencies": {
-    "aws-amplify": "^3.0.22",
-    "aws-amplify-vue": "^2.1.2",
+    "axios": "^0.21.0",
     "core-js": "^3.6.5",
     "element-ui": "^2.13.2",
     "js-file-download": "^0.4.12",
